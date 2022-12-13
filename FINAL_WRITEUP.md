@@ -26,9 +26,9 @@ It is my hope that with a little more time, patience, reading, and learning, tha
 Be patient. Take the time to understand what the the packages you're using do, and what parameters are needed in your call lines. Try to thoroughly understand the functions you're working with, too -- it'll make it easier to figure out why they might fail to work. Remember, you're doing cool stuff with this line of research. You're thinking about things and asking questions that may not have been asked before.
 
 ## Some sources I used to start drafting my script:
-https://github.com/Russel88/MicEco/#neutralfit
-https://www.nature.com/articles/ismej2015142#MOESM51
-https://www.rdocumentation.org/packages/stats4/versions/3.6.2/topics/mle
-https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/optim
-https://stackoverflow.com/questions/64477268/mle-function-error-in-optimstart-f-method-method-hessian-true-n
+- https://github.com/Russel88/MicEco/#neutralfit
+- https://www.nature.com/articles/ismej2015142#MOESM51
+- https://www.rdocumentation.org/packages/stats4/versions/3.6.2/topics/mle
+- https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/optim
+- https://stackoverflow.com/questions/64477268/mle-function-error-in-optimstart-f-method-method-hessian-true-n
 
